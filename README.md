@@ -1,3 +1,5 @@
+# DISCONTINUED
+This app was not mainatined since its release, it barely works, it's written badly, and it's written in .NET Framework and Windows Forms, which are not crossplatform. Also, with latest changes to the bot and the website, this app will stop working at all.
 # Stickers for Discord app
 ## Description
 Stickers for Discord app is Windows client for Stickers for Discord website written in C#.
